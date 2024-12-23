@@ -9,7 +9,7 @@ A collection of pre-compiled binaries, scripts, and tools for Active Directory p
 - 🛠️ **[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)**: Swiss army knife for pentesting Windows/AD environments.  
 - 🔑 **[Mimikatz](https://github.com/gentilkiwi/mimikatz)**: Credential dumping and manipulation.  
 - 📜 **[Impacket Tools](https://github.com/SecureAuthCorp/impacket)**: Suite of Python tools for network protocols (e.g., `secretsdump`, `wmiexec`).  
-- 🐶 **[SharpHound](https://github.com/BloodHoundAD/SharpHound)**: Data collector for BloodHound.  
+- 🐶 **[SharpHound](https://github.com/SpecterOps/SharpHound)**: Data collector for BloodHound.  
 - 🔎 **[PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon)**: PowerShell-based AD enumeration.  
 
 ### Scripts  
