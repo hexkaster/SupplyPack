@@ -14,20 +14,21 @@ A collection of pre-compiled binaries, scripts, and tools for Active Directory p
 
 ### Scripts  
 - **Enumeration**:  
-  - `ADRecon`  
-  - `ldapdomaindump`  
-  - `Get-NetUser`  
-
-- **Privilege Escalation**:  
-  - `PowerUp`  
-  - `SharpUp`  
+  - `SharpHound`  
+  - `winPEAS`  
+  - `PowerView`  
 
 - **Lateral Movement**:  
-  - `Rubeus`  
-  - `Invoke-Kerberoast`  
+  - `Rubeus` 
+
+- **Privilege Escalation**:  
+  - `Potatoes`  
+  - `SharpUp`  
 
 ### Custom Tools  
-- Custom scripts for AD-specific tasks, tailored to common penetration testing scenarios.  
+- Custom scripts for AD-specific tasks, tailored to common penetration testing scenarios. Mainly DLL's.
+  - `SimpleBackdoorAdmin.dll`
+
 
 ## 📜 Documentation  
 Each tool/script includes a brief description and links to its official documentation for detailed usage instructions.  
